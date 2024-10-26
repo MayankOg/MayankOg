@@ -15,8 +15,9 @@ Welcome to my GitHub page! I’m a final-year **Automation & Robotics** student,
 ## 🚀 About Me
 
 - **Student of Automation & Robotics** 🎓 at DY Patil Institute of Technology
-- Creator of **khaaopio** 🍛, a food marketplace app for mess and cafe listings
+- Creator of **khaaopio** 🍛, a food marketplace app for mess and cafe listings ([khaaopio.com](https://khaaopio.com))
 - Founder of **Gamerz** 🎮, an e-sports platform for organizing gaming tournaments in BGMI, Freefire, and Valorant
+- Developer of **Particlub** 📅, a social platform for connecting individuals through events and activities
 - Skilled in **UI/UX design** and building seamless **user experiences**
 - Explorer of new tech and passionate about **e-sports gaming, chess, and fitness**
 
@@ -37,7 +38,8 @@ Welcome to my GitHub page! I’m a final-year **Automation & Robotics** student,
 
 | 🏆 Project      | 🌟 Description                                                                                       |
 |-----------------|-----------------------------------------------------------------------------------------------------|
-| **Khaaopio**    | A marketplace app showcasing mess menus, cafe specials, and QR ordering.                            |
+| **Khaaopio**    | A marketplace app showcasing mess menus, cafe specials, and QR ordering. ([khaaopio.com](https://khaaopio.com)) |
+| **Particlub**   | A social platform designed to connect individuals through events and activities.                    |
 | **Gamerz**      | E-sports tournament platform for hosting BGMI, Freefire, and Valorant competitions.                |
 | **Smart UI**    | Dashboard design for **ISIE E-Bike Challenge 2023**                                                  |
 | **PMS Robotics**| Developed a dynamic **company management website** for process tracking and reporting.              |
