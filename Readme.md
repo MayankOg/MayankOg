@@ -1,13 +1,13 @@
 # Hi there! 👋 I'm Mayank Sharma
 
-Welcome to my GitHub page! I’m a final-year **Automation & Robotics** student, cross-platform developer, and tech enthusiast who loves crafting innovative solutions with **Flutter** and **AWS Amplify**.
+Welcome to my GitHub page! I’m a final-year **Automation & Robotics** student, cross-platform developer, and tech enthusiast passionate about crafting innovative solutions with **Flutter**, **AWS Amplify**, and cloud technologies.
 
-![Header Image](https://github.com/yourusername/yourusername/blob/main/assets/header.gif)
+![Header Image](https://github.com/MayankOg/MayankOg/blob/main/assets/header.gif)
 
 ---
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F7A400&background=00000000&width=435&lines=Full-Stack+Developer;Tech+Enthusiast;Automation+%26+Robotics;Blockchain+Innovator" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F7A400&background=00000000&width=435&lines=Full-Stack+Developer;Cloud+Specialist;Automation+%26+Robotics;E-Sports+Organizer;Tech+Enthusiast" alt="Typing SVG" />
 </div>
 
 ---
@@ -16,6 +16,7 @@ Welcome to my GitHub page! I’m a final-year **Automation & Robotics** student,
 
 - **Student of Automation & Robotics** 🎓 at DY Patil Institute of Technology
 - Creator of **khaaopio** 🍛, a food marketplace app for mess and cafe listings
+- Founder of **Gamerz** 🎮, an e-sports platform for organizing gaming tournaments in BGMI, Freefire, and Valorant
 - Skilled in **UI/UX design** and building seamless **user experiences**
 - Explorer of new tech and passionate about **e-sports gaming, chess, and fitness**
 
@@ -25,6 +26,10 @@ Welcome to my GitHub page! I’m a final-year **Automation & Robotics** student,
 ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=for-the-badge&logo=graphql)
 ![DynamoDB](https://img.shields.io/badge/-DynamoDB-333333?style=for-the-badge&logo=amazon-dynamodb)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=for-the-badge&logo=node.js)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=for-the-badge&logo=docker)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-333333?style=for-the-badge&logo=google-cloud)
+![Firebase](https://img.shields.io/badge/-Firebase-333333?style=for-the-badge&logo=firebase)
+![Azure](https://img.shields.io/badge/-Azure-333333?style=for-the-badge&logo=microsoft-azure)
 
 ---
 
@@ -33,14 +38,15 @@ Welcome to my GitHub page! I’m a final-year **Automation & Robotics** student,
 | 🏆 Project      | 🌟 Description                                                                                       |
 |-----------------|-----------------------------------------------------------------------------------------------------|
 | **Khaaopio**    | A marketplace app showcasing mess menus, cafe specials, and QR ordering.                            |
+| **Gamerz**      | E-sports tournament platform for hosting BGMI, Freefire, and Valorant competitions.                |
 | **Smart UI**    | Dashboard design for **ISIE E-Bike Challenge 2023**                                                  |
 | **PMS Robotics**| Developed a dynamic **company management website** for process tracking and reporting.              |
 
 ---
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&count_private=true" alt="GitHub stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub streak" />
+    <img src="https://github-readme-stats.vercel.app/api?username=MayankOg&show_icons=true&theme=radical&count_private=true" alt="GitHub stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MayankOg&theme=radical" alt="GitHub streak" />
 </div>
 
 ---
@@ -61,4 +67,3 @@ Welcome to my GitHub page! I’m a final-year **Automation & Robotics** student,
 ---
 
 ⭐️ **Let’s build something amazing together!** Feel free to reach out for collaboration, or just a friendly chat on tech! 😊
-
