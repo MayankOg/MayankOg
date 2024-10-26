@@ -18,6 +18,7 @@ Welcome to my GitHub page! I’m a final-year **Automation & Robotics** student,
 - Creator of **khaaopio** 🍛, a food marketplace app for mess and cafe listings ([khaaopio.com](https://khaaopio.com))
 - Founder of **Gamerz** 🎮, an e-sports platform for organizing gaming tournaments in BGMI, Freefire, and Valorant
 - Developer of **Particlub** 📅, a social platform for connecting individuals through events and activities
+- Integrated **Razorpay** 💳 as a payment gateway for seamless transactions in my projects
 - Skilled in **UI/UX design** and building seamless **user experiences**
 - Explorer of new tech and passionate about **e-sports gaming, chess, and fitness**
 
@@ -31,6 +32,7 @@ Welcome to my GitHub page! I’m a final-year **Automation & Robotics** student,
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-333333?style=for-the-badge&logo=google-cloud)
 ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=for-the-badge&logo=firebase)
 ![Azure](https://img.shields.io/badge/-Azure-333333?style=for-the-badge&logo=microsoft-azure)
+![Razorpay](https://img.shields.io/badge/-Razorpay-333333?style=for-the-badge&logo=razorpay)
 
 ---
 
@@ -40,9 +42,10 @@ Welcome to my GitHub page! I’m a final-year **Automation & Robotics** student,
 |-----------------|-----------------------------------------------------------------------------------------------------|
 | **Khaaopio**    | A marketplace app showcasing mess menus, cafe specials, and QR ordering. ([khaaopio.com](https://khaaopio.com)) |
 | **Particlub**   | A social platform designed to connect individuals through events and activities.                    |
-| **Gamerz**      | E-sports tournament platform for hosting BGMI, Freefire, and Valorant competitions.                |
-| **Smart UI**    | Dashboard design for **ISIE E-Bike Challenge 2023**                                                  |
+| **Gamerz**      | E-sports tournament platform for hosting BGMI, Freefire, and Valorant competitions.                 |
+| **Smart UI**    | Dashboard design for **ISIE E-Bike Challenge 2023**                                                 |
 | **PMS Robotics**| Developed a dynamic **company management website** for process tracking and reporting.              |
+| **PG Integration** | Integrated **Razorpay** as a payment gateway for seamless transactions in **Khaaopio**.          |
 
 ---
 
