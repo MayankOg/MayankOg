@@ -19,6 +19,7 @@ Welcome to my GitHub page! I’m a final-year **Automation & Robotics** student,
 - Founder of **Gamerz** 🎮, an e-sports platform for organizing gaming tournaments in BGMI, Freefire, and Valorant
 - Developer of **Particlub** 📅, a social platform for connecting individuals through events and activities
 - Integrated **Razorpay** 💳 as a payment gateway for seamless transactions in my projects
+- Proficient in using **Apache** 🌐 to create and manage web servers
 - Skilled in **UI/UX design** and building seamless **user experiences**
 - Explorer of new tech and passionate about **e-sports gaming, chess, and fitness**
 
@@ -33,6 +34,7 @@ Welcome to my GitHub page! I’m a final-year **Automation & Robotics** student,
 ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=for-the-badge&logo=firebase)
 ![Azure](https://img.shields.io/badge/-Azure-333333?style=for-the-badge&logo=microsoft-azure)
 ![Razorpay](https://img.shields.io/badge/-Razorpay-333333?style=for-the-badge&logo=razorpay)
+![Apache](https://img.shields.io/badge/-Apache-333333?style=for-the-badge&logo=apache)
 
 ---
 
@@ -42,10 +44,11 @@ Welcome to my GitHub page! I’m a final-year **Automation & Robotics** student,
 |-----------------|-----------------------------------------------------------------------------------------------------|
 | **Khaaopio**    | A marketplace app showcasing mess menus, cafe specials, and QR ordering. ([khaaopio.com](https://khaaopio.com)) |
 | **Particlub**   | A social platform designed to connect individuals through events and activities.                    |
-| **Gamerz**      | E-sports tournament platform for hosting BGMI, Freefire, and Valorant competitions.                 |
-| **Smart UI**    | Dashboard design for **ISIE E-Bike Challenge 2023**                                                 |
+| **Gamerz**      | E-sports tournament platform for hosting BGMI, Freefire, and Valorant competitions.                |
+| **Smart UI**    | Dashboard design for **ISIE E-Bike Challenge 2023**                                                  |
 | **PMS Robotics**| Developed a dynamic **company management website** for process tracking and reporting.              |
-| **PG Integration** | Integrated **Razorpay** as a payment gateway for seamless transactions in **Khaaopio**.          |
+| **Payment Integration** | Integrated **Razorpay** as a payment gateway for seamless transactions in **Khaaopio**.         |
+| **Server Management** | Utilized **Apache** to create and manage web servers for efficient hosting solutions.              |
 
 ---
 
