@@ -44,7 +44,7 @@ Welcome to my GitHub page! I’m a final-year **Automation & Robotics** student,
 |-----------------|-----------------------------------------------------------------------------------------------------|
 | **Khaaopio**    | A marketplace app showcasing mess menus, cafe specials, and QR ordering. ([khaaopio.com](https://khaaopio.com)) |
 | **Particlub**   | A social platform designed to connect individuals through events and activities.                    |
-| **Gamerz**      | E-sports tournament platform for hosting BGMI, Freefire, and Valorant competitions.                |
+| **Gamerz**      | E-sports tournament platform for hosting BGMI, Freefire, and Valorant competitions.([gamerz.mobi.com](https://gamerz.mobi))              |
 | **Smart UI**    | Dashboard design for **ISIE E-Bike Challenge 2023**                                                  |
 | **PMS Robotics**| Developed a dynamic **company management website** for process tracking and reporting.              |
 | **Payment Integration** | Integrated **Razorpay** as a payment gateway for seamless transactions in **Khaaopio**.         |
